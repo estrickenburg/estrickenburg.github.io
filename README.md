@@ -5,7 +5,7 @@
 **Week 1**
 
 What did you do last week?
-- I researched different approaches and resources for learning both Java and Kubernetes, watching some videos on both LinkedIn Learning and Youtube, as well as looking through some books. 
+- I researched different approaches and resources for learning both Java and Kubernetes, watching some videos on both LinkedIn Learning and Youtube, as well as looking through some books.
 - I created the website for this class
   
 What do you plan to do this week?
