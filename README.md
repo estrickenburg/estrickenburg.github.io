@@ -39,6 +39,23 @@ Reflection on the process you used last week, how can you make the process work 
 - I was able to confirm with my team at work that Java development learning should be a high priority for me, confirming my choice for this project
 - I'm eager to settle into a rhythm with learning Java so that I can use my time effectively
 
+**Week 3**
+
+What did you do last week?
+- Started learning Java. The LinkedIn Learning course has been easy to follow and provides a nice combination of video instruction, coding exercises, and quizzes. I’ve been able to move pretty quickly for the first part of the course since it starts with the basics, but I’m sure my pace will slow when I get into harder topics. 
+
+What do you plan to do this week?
+- Continue learning Java. 
+- Always follow along with the coding exercises in IntelliJ as I watch.
+- When I have questions or am curious about how something works, stop the video and play around with it. 
+
+Are there any impediments in your way?
+- One of the issues I ran into this past week is keyboard shortcuts. At home I have a macbook and at work I have a linux machine. I realized that the keyboard shortcuts for IntelliJ are very different on the two machines (and not just like the difference of swapping out the Ctrl and Command key). Part of what I want to improve on is my ability to use keyboard shortcuts for Java programming in IntelliJ, so I need to figure out a solution for this. 
+
+Reflection on the process you used last week, how can you make the process work better?
+- I’m considering bringing home my work laptop in order to practice with its keyboard shortcuts. I also want to look up more about whether it’s feasible to change the keyboard shortcuts on one or the other of the IntelliJ instances so that they match. 
+
+
 ## Project Proposal
 
 *Vision Statement*
