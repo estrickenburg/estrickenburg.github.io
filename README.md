@@ -1,10 +1,8 @@
-# Planning Site for Professional Development Class
-
-## Beth Strickenburg
+# Learning Java
 
 ## Weekly Updates
 
-**Week 1**
+**September 5th**
 
 What did you do last week?
 - I researched different approaches and resources for learning both Java and Kubernetes, watching some videos on both LinkedIn Learning and Youtube, as well as looking through some books.
@@ -21,7 +19,7 @@ Reflection on the process you used last week, how can you make the process work 
 - Next week I want to be more organized and decisive in my time management.
 - I should have a better sense for what will be a helpful skill to complement what I'm learning at work.
 
-**Week 2**
+**September 12th**
 
 What did you do last week?
 - Wrote project proposal and posted a draft to Piazza
@@ -39,7 +37,7 @@ Reflection on the process you used last week, how can you make the process work 
 - I was able to confirm with my team at work that Java development learning should be a high priority for me, confirming my choice for this project
 - I'm eager to settle into a rhythm with learning Java so that I can use my time effectively
 
-**Week 3**
+**September 19th**
 
 What did you do last week?
 - Started learning Java. The LinkedIn Learning course has been easy to follow and provides a nice combination of video instruction, coding exercises, and quizzes. I’ve been able to move pretty quickly for the first part of the course since it starts with the basics, but I’m sure my pace will slow when I get into harder topics. 
