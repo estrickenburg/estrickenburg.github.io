@@ -53,6 +53,24 @@ Are there any impediments in your way?
 Reflection on the process you used last week, how can you make the process work better?
 - I’m considering bringing home my work laptop in order to practice with its keyboard shortcuts. I also want to look up more about whether it’s feasible to change the keyboard shortcuts on one or the other of the IntelliJ instances so that they match. 
 
+**September 26th**
+
+What did you do last week?
+- Continued with Java learning and practice. Got further into conditionals, looping, and different kinds of expressions. Took my time and played around with new syntax as it came up.
+- I also spent some of my learning time brushing up on docker and docker compose. I'm thinking that I might incorporate this as a secondary learning goal in my project. It's another concept that's coming up a lot at work, and that I'd like to learning in a deeper way.
+- Made some updates to my project website
+
+What do you plan to do this week?
+- Continue learning Java. 
+- Try things out on my own in IntelliJ (in addition to the LinkedIn Learning exercises)
+- Add in some learning about containerization, especially docker, kubernetes, and helm. 
+
+Are there any impediments in your way?
+- The main impediment is knowing how to balance my time, especially as I add in a secondary learning goal for my project.
+
+Reflection on the process you used last week, how can you make the process work better?
+- I think I should dedicate specific time to studying containerization that is separate from my Java studies. As I progress farther, I hope to find a mini project that combines the two areas of study.
+
 
 ## Project Proposal
 
