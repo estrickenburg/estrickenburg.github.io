@@ -15,7 +15,7 @@ What do you plan to do this week?
 Are there any impediments in your way?
 - Mostly just my own indecision. I start a new job on Monday, and I wish I had a better idea of what skill would be most useful for me to focus on this semester.
   
-Reflection on the process you used last week, how can you make the process work better?
+Reflecting on the process you used last week, how can you make the process work better?
 - Next week I want to be more organized and decisive in my time management.
 - I should have a better sense for what will be a helpful skill to complement what I'm learning at work.
 
@@ -33,7 +33,7 @@ What do you plan to do this week?
 Are there any impediments in your way?
 - None
   
-Reflection on the process you used last week, how can you make the process work better?
+Reflecting on the process you used last week, how can you make the process work better?
 - I was able to confirm with my team at work that Java development learning should be a high priority for me, confirming my choice for this project
 - I'm eager to settle into a rhythm with learning Java so that I can use my time effectively
 
@@ -50,7 +50,7 @@ What do you plan to do this week?
 Are there any impediments in your way?
 - One of the issues I ran into this past week is keyboard shortcuts. At home I have a macbook and at work I have a linux machine. I realized that the keyboard shortcuts for IntelliJ are very different on the two machines (and not just like the difference of swapping out the Ctrl and Command key). Part of what I want to improve on is my ability to use keyboard shortcuts for Java programming in IntelliJ, so I need to figure out a solution for this. 
 
-Reflection on the process you used last week, how can you make the process work better?
+Reflecting on the process you used last week, how can you make the process work better?
 - I’m considering bringing home my work laptop in order to practice with its keyboard shortcuts. I also want to look up more about whether it’s feasible to change the keyboard shortcuts on one or the other of the IntelliJ instances so that they match. 
 
 **September 26th**
@@ -68,9 +68,22 @@ What do you plan to do this week?
 Are there any impediments in your way?
 - The main impediment is knowing how to balance my time, especially as I add in a secondary learning goal for my project.
 
-Reflection on the process you used last week, how can you make the process work better?
+Reflecting on the process you used last week, how can you make the process work better?
 - I think I should dedicate specific time to studying containerization that is separate from my Java studies. As I progress farther, I hope to find a mini project that combines the two areas of study.
 
+**October 3rd**
+
+What did you do last week?
+- I continued with Java Essential Training: Syntax and Structure and am almost finished with this course (which is the first portion of the "Learning Path"). The first few units went really quickly, but my pace is a bit slower now that the material is covering more things that are brand new for me. Completing the exercises as I go has been invaluable. I haven't had to rely on hints or look ahead and solutions yet, and it's forced me to slow down and apply the new concepts I'm learning.
+
+What do you plan to do this week?
+- I plan to finish the Java Essential Training: Syntax and Structure course and get a good start on the Java Essential Training: Objects and APIs course.
+
+Are there any impediments in your way?
+- None
+
+Reflecting on the process you used last week, how can you make the process work better?
+- I want to continue to do all of the exercises as I go without looking ahead at the solutions. This will be more time intensive as the material gets more complex, but I'm finding that it's time well spent. 
 
 ## Project Proposal
 
