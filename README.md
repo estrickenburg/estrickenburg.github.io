@@ -83,7 +83,22 @@ Are there any impediments in your way?
 - None
 
 Reflecting on the process you used last week, how can you make the process work better?
-- I want to continue to do all of the exercises as I go without looking ahead at the solutions. This will be more time intensive as the material gets more complex, but I'm finding that it's time well spent. 
+- I want to continue to do all of the exercises as I go without looking ahead at the solutions. This will be more time intensive as the material gets more complex, but I'm finding that it's time well spent.
+
+**October 10th**
+
+What did you do last week?
+- I completed Java Essential Training: Syntax and Structure (focusing in on Arrays and String methods) and I began the the Java Essential Training: Objects and APIs course. The code challenges are getting a bit more challenging, so I’m finding myself spending more time on them. It’s been an excellent way to cement my understanding.
+  
+What do you plan to do this week?
+- I plan to continue the Java Essential Training: Objects and APIs course, completing the coding exercises as I go.
+  
+Are there any impediments in your way?
+- The coding interface in LinkedIn Learning is slightly buggy at times and keeps freezing up so that I can’t type. It doesn’t happen too often, but when it does it’s quite frustrating.
+  
+Reflecting on the process you used last week, how can you make the process work better?
+- I may switch to just replicating the coding challenges in IntelliJ to avoid the bugginess. 
+
 
 ## Project Proposal
 
