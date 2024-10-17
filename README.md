@@ -97,7 +97,23 @@ Are there any impediments in your way?
 - The coding interface in LinkedIn Learning is slightly buggy at times and keeps freezing up so that I can’t type. It doesn’t happen too often, but when it does it’s quite frustrating.
   
 Reflecting on the process you used last week, how can you make the process work better?
-- I may switch to just replicating the coding challenges in IntelliJ to avoid the bugginess. 
+- I may switch to just replicating the coding challenges in IntelliJ to avoid the bugginess.
+
+**October 17th**
+
+What did you do last week?
+- I completed the activity on accessing lifelong learning resources by watching a LinkedIn Learning course on difficult conversations. This was a helpful exercise and fit in well with my work context, as I'm coming up on the end of the year review season.
+- I also continued with the Java Essential Training: Objects and APIs course, which has been super interesting. I focused in on inheritance between classes this week, and I practiced several skills that had come up in some of my most recent tickets at work. The coding challenges are taking more time, but I'm finding them to be directly applicable to my work environment, which has been really fun and encouraging.
+  
+What do you plan to do this week?
+- I plan to continue the Java course, focusing on Polymorphism and Abstraction.
+  
+Are there any impediments in your way?
+- None
+  
+Reflecting on the process you used last week, how can you make the process work better?
+- This week re-emphasized to me the importance of taking my time with the coding exercises. I was watching the videos and everything seemed very straight forward, but when I went to do the coding exercises I realized that I didn't understand the concepts as well as I'd thought I did. It's so interesting to me how coding concepts require such a deeper understanding to implement than to just explain. As I move forward, I want to continue to take my time with the exercises and make sure I can implement the concepts rather than just having a surface understanding. 
+
 
 
 ## Project Proposal
