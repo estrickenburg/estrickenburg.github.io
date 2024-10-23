@@ -114,8 +114,22 @@ Are there any impediments in your way?
 Reflecting on the process you used last week, how can you make the process work better?
 - This week re-emphasized to me the importance of taking my time with the coding exercises. I was watching the videos and everything seemed very straight forward, but when I went to do the coding exercises I realized that I didn't understand the concepts as well as I'd thought I did. It's so interesting to me how coding concepts require such a deeper understanding to implement than to just explain. As I move forward, I want to continue to take my time with the exercises and make sure I can implement the concepts rather than just having a surface understanding. 
 
+**October 24th**
 
+What did you do last week?
+- I continued working through the LinkedIn Learning course Java Essential Training: Objects and APIs, focusing on Polymorphism and Abstraction. I'm continuing to learn new concepts and skills through this course, and I'm finding the coding exercises to be both interesting and useful. I'm also incorporating more note-taking around the coding exercises (not just the lectures) into my process.
+- I continue to be able to apply the concepts and skills that I'm through in this course in the tickets I'm completing at work, which has been really exciting!
 
+What do you plan to do this week?
+- I plan to continue through the Java course, focusing on Interfaces and Data Structures.
+
+Are there any impediments in your way?
+- None
+
+Reflecting on the process you used last week, how can you make the process work better?
+- One of the things that I plan to do this week is to give myself a larger chunk of time over the weekend to work on my project. I've been splitting up the work in small chunks over the course of the week, and while that works ok, I think it would be useful to have a larger time period to focus in more deeply on the learning.
+- I've also found it useful to take thorough notes, not only while watching the lectures but also just after completing the coding exercises. The exercises are where the concepts really solidify for me, so taking notes about what I learned specifically through the exercises has been a good practice.
+  
 ## Project Proposal
 
 *Vision Statement*
