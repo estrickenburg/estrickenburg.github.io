@@ -129,6 +129,21 @@ Are there any impediments in your way?
 Reflecting on the process you used last week, how can you make the process work better?
 - One of the things that I plan to do this week is to give myself a larger chunk of time over the weekend to work on my project. I've been splitting up the work in small chunks over the course of the week, and while that works ok, I think it would be useful to have a larger time period to focus in more deeply on the learning.
 - I've also found it useful to take thorough notes, not only while watching the lectures but also just after completing the coding exercises. The exercises are where the concepts really solidify for me, so taking notes about what I learned specifically through the exercises has been a good practice.
+
+**October 31st**
+
+What did you do last week?
+- This week I focused on Interfaces, Sets, and Lists in the Java Essential Training: Objects and APIs course. Interfaces in particular were a new concept for me, so it took a bit to get the hang of it. The coding exercises have continued to be useful. I'm also finding myself spending more time looking through the Java docs when I come across new concepts in the LinkedIn Learning course. The videos are a good introduction, and they help me get a sense for where I should focus as I read the documentation. The documentation is super helpful, and has so much more detail than the videos. 
+
+What do you plan to do this week?
+- I plan to continue through the Java course, doing the coding exercises as I go, and spending time in the Java documentation when I come across interesting new concepts.
+
+Are there any impediments in your way?
+- During my current sprint at work I've transitioned to doing more work with Kubernetes and Helmfiles, and less with Java. It's not an impediment really, but it was fun and motivating to be able to use the Java concepts I was learning about so readily at work. I'll just need to keep up my motivation. 
+
+Reflecting on the process you used last week, how can you make the process work better?
+- Spending more time in the Java documentation has been a great addition from this past week, and I plan to continue with this moving forward in the course. 
+
   
 ## Project Proposal
 
