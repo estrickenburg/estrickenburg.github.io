@@ -142,8 +142,22 @@ Are there any impediments in your way?
 - During my current sprint at work I've transitioned to doing more work with Kubernetes and Helmfiles, and less with Java. It's not an impediment really, but it was fun and motivating to be able to use the Java concepts I was learning about so readily at work. I'll just need to keep up my motivation. 
 
 Reflecting on the process you used last week, how can you make the process work better?
-- Spending more time in the Java documentation has been a great addition from this past week, and I plan to continue with this moving forward in the course. 
+- Spending more time in the Java documentation has been a great addition from this past week, and I plan to continue with this moving forward in the course.
 
+**November 7th**
+
+What did you do last week?
+- This week my Java studies focused on data structures and functional programming. I'm getting into some really interesting new concepts, especially around functional programming. I knew that there was some interoperability and cross-over between Java and Scala, but the unit on functional interfaces in Java blew my mind. A lot the syntax felt like it was straight out of Scala and our Principles of Programming Languages class! I think that spending time really understanding this side of Java will serve me well, especially since my company has a lot of legacy code written in Scala, but we're transitioning into using Java instead. The interoperability between the two languages means that I'm ending up needing to extend out Scala functions and use them in Java. 
+- I also found the section on Stream operations in Java to be fascinating. It's such a different approach from object oriented programming that's it's taking me a bit to wrap my head around it. But it seems very powerful.
+
+What do you plan to do this week?
+- This week I plan to continue with the LinkedIn Learning Java studies, as well as spending time in the Java documentation when I run across interesting new concepts. 
+
+Are there any impediments in your way?
+- I'll be out of town this coming weekend, so I'll need to be very intentional about my time.
+
+Reflecting on the process you used last week, how can you make the process work better?
+- I've continued to find it very useful to spend time in the documentation alongside the LinkedIn Learning class. I want to continue to do this as well as completing all of the coding exercises. 
   
 ## Project Proposal
 
