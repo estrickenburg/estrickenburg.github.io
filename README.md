@@ -157,7 +157,22 @@ Are there any impediments in your way?
 - I'll be out of town this coming weekend, so I'll need to be very intentional about my time.
 
 Reflecting on the process you used last week, how can you make the process work better?
-- I've continued to find it very useful to spend time in the documentation alongside the LinkedIn Learning class. I want to continue to do this as well as completing all of the coding exercises. 
+- I've continued to find it very useful to spend time in the documentation alongside the LinkedIn Learning class. I want to continue to do this as well as completing all of the coding exercises.
+
+**November 14th**
+
+What did you do last week?
+- I focused on exception handling in Java this week. The LinkedIn Learning course provided a good starting point and went into some really interesting concepts like try-with-resources (which allows you to name the resources you'll be using and the resources automatically get closed down if an exception is thrown), and using polymorphism to catch multiple exceptions. When I ran across things that I didn't fully understand from the videos, I looked them up in the Java docs, which was then very helpful in completing the coding exercises.
+- I finished the Java Essential Training: Objects and APIs LinkedIn Learning course 
+
+What do you plan to do this week?
+- Since I completed the Objects and APIs course, I get to pick a new one to start this week. I've decided not to go in order with the "Learning Path," since I know I won't be able to finish all of the courses this semester. Instead, I'll pick the ones that are most interesting to me. With this in mind, I think I'm going to dive into the Java Collections course this week.
+
+Are there any impediments in your way?
+- None
+
+Reflecting on the process you used last week, how can you make the process work better?
+- Being able to sit down for larger chunks of time this week was helpful for my concentration in learning and absorbing the material. I'm going to try to continue that this coming week.
   
 ## Project Proposal
 
