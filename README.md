@@ -174,6 +174,22 @@ Are there any impediments in your way?
 Reflecting on the process you used last week, how can you make the process work better?
 - Being able to sit down for larger chunks of time this week was helpful for my concentration in learning and absorbing the material. I'm going to try to continue that this coming week.
   
+**November 21st**
+
+What did you do last week?
+- This week I dove into the Java Collections course on the LinkedIn Learning Path, and it's proving to be a great choice. The lecturer for this course is more engaging than the lecturers for the last few courses, and he presents the material in a fun and interesting way.
+- I've worked with Collections before, but the lectures I watched this week helped me gain a clearer understanding of how interfaces and extensions work within the framework. I particularly appreciated a lecture that compared code implementations of a class using an ArrayList (from the Java Collections framework) with the same class implemented as a regular old array. The comparison and contrast helped me understand some of the advantages and shortcuts that are provided by using the Collections framework.
+
+What do you plan to do this week?
+- This week (or rather, the week after Thanksgiving break), I plan to continue with Java Collections course. This course has been particularly fun and interesting so far, so I think it will be easy to motivate myself. Generics, iterators, and lambdas are coming up, so should be lots of fun concepts.
+
+Are there any impediments in your way?
+- None
+
+Reflecting on the process you used last week, how can you make the process work better?
+- My learning time was more enjoyable this week because the lecturer was better. I'll keep this in mind as I pick and choose the courses from the Learning Path during the rest of the semester. 
+
+
 ## Project Proposal
 
 *Vision Statement*
