@@ -189,6 +189,20 @@ Are there any impediments in your way?
 Reflecting on the process you used last week, how can you make the process work better?
 - My learning time was more enjoyable this week because the lecturer was better. I'll keep this in mind as I pick and choose the courses from the Learning Path during the rest of the semester. 
 
+**December 5th**
+
+What did you do last week?
+- I continued working through the course on Java Collections, which has been really interesting. The coding challenges have been helpful as well.
+- I decided that I wanted a bit more practical application practice for Java, so I also did some Leetcode problems in Java. This proved to be a great way to get some additional practice with the concepts that wasn't specifically tailored to go along with the course material.
+
+What do you plan to do this week?
+- I plan to continue (and hopefully finish!) the Java Collections course as well as writing up my final project report.
+
+Are there any impediments in your way?
+- This coming week is quite busy for me at work, so I'll need to stay disciplined with my time.
+
+Reflecting on the process you used last week, how can you make the process work better?
+- I found the addition of Leetcode practice for Java to be quite useful and I'd like to continue with that this week as well.
 
 ## Project Proposal
 
