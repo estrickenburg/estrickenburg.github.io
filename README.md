@@ -243,3 +243,50 @@ The main mitigation I see for this risk is to keep my goal somewhat flexible and
 
 One of the advantages of using a resource like a LinkedIn Learning path is that there are easy ways to measure progress. I can measure how many of the videos I’ve watched, how I’ve scored on the quizzes, and whether my solutions to the exercises work effectively. I think I will also find it easier to stay on track since the material is already organized in this way. Successful completion of the project would be to make it through all of the content in the learning path while completing the exercises and mini-projects and then to receive the certification at the end. 
 
+## Final Report
+
+*Introduction*
+
+For my project in this class, I chose to learn the Java programming language. At the beginning of the semester, I had just accepted a new full-time position as a backend software engineer and knew that I would be working a lot in Java. This course provided an excellent opportunity for me to learn and study the language outside of work, while also developing skills that would be vital to my professional life. I envisioned this project as an organized journey into the syntax and structures of Java development, where I would make use of structured learning materials while also giving myself time to practice and use the language. 
+
+*Background*
+
+A main motivation for me in choosing this project was its applicability to my work. In my previous internship experience, I had worked in Python, Swift, and React, but my new role required a lot of Java development work, and I quickly realized that I needed a deeper understanding of Java. As I started working on my initial tickets, I found myself having to Google basic structures of the language and wishing that I had more time to devote to it. This project provided an excellent way to dig deeper into this study and it served as an important complement to the things that I was learning on the job.
+
+My background before computer science was in foreign languages (I have an M.A. in French literature) and I’ve realized that I thoroughly enjoy learning new programming languages as well. There are similarities in how one goes about learning both spoken languages and coding languages – gaining a new vocabulary, utilizing new syntax, practicing new ways of expressing the same idea in many contexts. As I enter the work world in computer science, I want to continue to make use of my language learning skills, and this project provided an excellent avenue for that as well.
+
+
+*Methodology, Materials, and Methods*
+
+In terms of materials and learning methods, I knew that I wanted to have something structured and organized as the backbone of my learning. I chose to follow LinkedIn Learning’s “Getting Started as a Java Developer” path. This learning path includes a number of different courses about Java development, and initially I was thinking that I could go through all of the courses over the course of the semester. It quickly became clear to me that this wasn’t an achievable goal, because the estimated time for the courses (listed in the learning path) is just equal to the time it takes to watch the lectures. I knew that taking the time to do all of the coding exercises was an important step in my learning, so I slowed down my pace in order to do this. Spending time with the coding exercises so that I could truly understand and apply the concepts was incredibly valuable for me. 
+In light of this transition of scope, I chose to complete three courses on the learning path: “Java Essential Training: Syntax and Structure,” “Java Essential Training: Objects and APIs,” and “Learning Java Collections.” In addition to watching the lectures and completing the coding exercises, I found a few other resources along the way that were helpful to incorporate into my learning. 
+
+The first additional resource I found was reading and studying Java documentation. When I ran across tricky concepts or things that I didn’t fully understand from the LinkedIn Learning lectures, I looked them up in the Java documentation and spent time understanding them in further depth. This not only gave me a fuller understanding of the concept, it also helped me grow my skills in navigating and utilizing documentation. The second resource I incorporated was completing Leetcode problems in Java. This gave me more practical problem solving experience in Java that wasn’t specifically linked to course material. These two elements proved to be both helpful and complementary to the LinkedIn Learning courses. 
+
+*Results*
+
+Throughout the semester, I gained a tremendous amount in terms of both my knowledge of Java as a language and my ability to apply it in practical settings. The concepts that I found to be the most interesting were inheritance, polymorphism, and the details of the Java Collections framework. All three of the concepts were things I was able to apply directly to tickets I was working on for my job as well. I created several classes that relied heavily on inheritance and polymorphism, and having a stronger understanding of the Collections framework helped me to structure my code in a way that felt more native to the Java syntax.
+
+The LinkedIn Learning courses were a good guide and a helpful way to stay “on track” with what I was learning each week. But I also found that  it was even more important to take time to apply and practice the concepts rather than to just grind through more lectures in order to make it through the courses more quickly.  Taking time to do the coding exercises on my own, looking up specifics in the Java docs as I was learning new concepts, and practicing Java through Leetcode problems ended up being as or more important than the lectures in terms of my overall learning.
+
+The assessments I set for myself were baked into the LinkedIn Learning courses and included the number of courses completed, the accuracy of coding solutions, and the quizzes. I could tell through my coding solutions and quiz responses that I was learning the material well, but I also realized quickly that I would not make it through nearly as much of the material as I had planned in order to learn the concepts thoroughly. The coding problems took more time than I had anticipated, but it also felt like incredibly valuable time spent. I remembered the concepts so much more after completing coding problems than I would have if I’d just watched the lectures. So it seemed like an obvious choice to slow my pace and take the time I needed to truly understand and apply the concepts rather than rushing through the lectures. 
+
+*Discussion/Reflection*
+
+Looking back over the semester, I can see huge leaps forward in terms of my knowledge of and skills in Java programming. From my time diving into Java documentation description of polymorphism to completing coding exercises based in the Java Collections framework, I’ve deepened my understanding of the language in significant ways. Being able to apply what I learned this semester so readily at work made the project feel especially worthwhile, and I know that I will continue to use and expand my knowledge moving forward.
+
+As I reflect on things that could have gone better, I wish that I had thought of using Leetcode earlier in the semester. Weaving in this sort of practical coding proved to be incredibly useful and it could have aided my learning earlier on in the semester. It was also a helpful way to reinforce what I was learning in a way that was tied to the curriculum. 
+
+I wish I had gotten even farther in the LinkedIn Learning path, but I feel like I’m leaving this project with a solid footing and good knowledge of where to look for further resources. I have plenty more solid LinkedIn learning courses, and I have both Java documentation and Leetcode problems at my fingertips.
+
+*Conclusion*
+
+Learning Java was a great project for me this semester. It was straightforward and organized because I used the LinkedIn Learning courses as the backbone of my learning. But I also felt like I could spend the time I needed to on the practical application of coding exercises and Leetcode. Being able to apply the concepts so readily at work helped keep me very motivated, and I’m excited to keep strengthening my Java knowledge and skills beyond this project as well. 
+
+*References/Bibliography*
+
+- LinkedIn Learning’s “Getting Started as a Java Developer” Learning Path: https://www.linkedin.com/learning/paths/getting-started-as-a-java-developer?u=42275329
+
+- Java Documentation: https://docs.oracle.com/en/java/
+
+
